@@ -27,7 +27,7 @@ I feel more confident in functions and loops after structuring the code into mod
 
 How to Run the Program
 Clone this repository:
- git clone https://github.com/your-username/python_madlibs.git
+ git clone https://github.com/atlogan/python_madlibs.git
 cd python_madlibs
 
 
